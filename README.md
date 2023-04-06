@@ -1,2 +1,2 @@
 # CppTest
-C++ test
+C++ function test
